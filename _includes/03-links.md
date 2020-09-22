@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Whiteaw2 icon image of a pyramid](https://avatars2.githubusercontent.com/u/20048527?s=460&v=4)
