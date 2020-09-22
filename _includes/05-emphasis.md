@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Humblebrag skills
+Below is a _list_ of my **technical skills**
+
+A list would usually go here.
